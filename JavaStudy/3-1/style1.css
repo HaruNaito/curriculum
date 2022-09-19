@@ -1,0 +1,36 @@
+body {
+	width: 100%;
+}
+.wrapper {
+	width: 400px;
+	margin: 0 auto;
+}
+.header {
+	width: 100%;
+	height: 100px;
+	background: #141f40;
+}
+.left {
+	float: left;
+	width: 150px;
+	height: 250px;
+	background: #80bfa8;
+}
+.right {
+	float: right;
+	width: 250px;
+	height: 250px;
+	background: #8c2727;
+}
+.footer {
+	width: 100%;
+	height: 100px;
+	background: #b98b30;
+}
+.clearfix:after {
+	content: "";
+	display: block;
+	clear: both;
+	height: 0;
+	visibility: hidden;
+}

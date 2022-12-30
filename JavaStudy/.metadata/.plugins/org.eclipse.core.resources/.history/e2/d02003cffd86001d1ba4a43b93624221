@@ -1,7 +1,0 @@
-spring.jpa.database=POSTGRESQL
-spring.datasource.url=jdbc:postgresql://localhost:5432/player
-spring.datasource.username=postgres
-spring.datasource.password=postgres
-# INTERNATIONALIZATION
-spring.messages.basename=messages
-spring.messages.encoding=UTF-8

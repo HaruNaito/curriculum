@@ -1,0 +1,7 @@
+spring.datasource.url=jdbc:mysql://localhost:3306/employee_managment_system?userSSL=false
+spring.datasource.username=postgres1111
+spring.datasource.password=postdres1111
+
+spring.jpa.properties.hidernate.dialect= prg.hidernate.dialect.MySQLLInnoDBDialect
+
+spring.jpa.hibernate.ddl-auto=update

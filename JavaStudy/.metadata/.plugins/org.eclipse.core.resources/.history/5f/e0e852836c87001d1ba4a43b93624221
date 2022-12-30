@@ -1,0 +1,8 @@
+spring.jpa.database=POSTGRESQL
+spring.datasource.url=jdbc:postgresql://localhost:3306/diary
+spring.datasource.username=postgres
+spring.datasource.password=postgres
+spring.datasource.driverClassName=com.mysql.cj.jdbc.Driver
+# INTERNATIONALIZATION
+spring.messages.basename=messages
+spring.messages.encoding=UTF-8

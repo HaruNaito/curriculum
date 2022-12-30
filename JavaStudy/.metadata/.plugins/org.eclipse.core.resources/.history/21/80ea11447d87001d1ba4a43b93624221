@@ -1,0 +1,6 @@
+package com.example.demo.dto;
+/**
+ * ユーザー情報 Repository
+ */
+@Repository
+public interface UserRepository extends JpaRepository<User, Long> {}
